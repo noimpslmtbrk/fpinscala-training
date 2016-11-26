@@ -1,1 +1,2 @@
 # fpinscala-training
+もくもく
